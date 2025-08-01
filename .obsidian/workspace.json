@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ea2b47bea400e5b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c244400c984242fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0e74c548375911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10- Database Management System/01- Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Overview"
+            }
+          },
+          {
+            "id": "69c9c0f081ee6dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science Update History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Science Update History"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "620ee84098c3ef1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "73b6f28b063ebe56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa729634e15c0cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7b4f9355f87adc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d9067233c56b2d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77bc569b065cad2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "70bd9ffc457451d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2744e2d7eee6ce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d476746b182b4971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2979b0fcfff2c3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "533f9911f5309556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "69c9c0f081ee6dad",
+  "lastOpenFiles": [
+    "02- MERN/06- Zod/Zod.md",
+    "02- MERN/05- MongoDB/Mongo.md",
+    "10- Database Management System/02- Introduction.md",
+    "10- Database Management System/01- Overview.md",
+    "10- Database Management System/DBMS.md",
+    "02- MERN/17- React Native Expo/React Native Crash Course.md",
+    "02- MERN/17- React Native Expo",
+    "12- Programming Questions",
+    "08- Data Structure and Algorithms/DAA.md",
+    "12- Programming Questions/Programming Questions.md",
+    "08- Data Structure and Algorithms",
+    "02- MERN/16- T3 Stack/T3 Stack.md",
+    "02- MERN/15- tRPC/tRPC.md",
+    "02- MERN/14- TanStack Query/TanStack Query.md",
+    "02- MERN/13- Tailwind CSS/Tailwind.md",
+    "Untitled 1.md",
+    "02- MERN/12- PostgreSQL/PostgreSQL.md",
+    "02- MERN/11- NextAuth/Next Auth.md",
+    "02- MERN/10- Prisma ORM/Prisma.md",
+    "02- MERN/09- NextJs/NextJs.md",
+    "02- MERN/08- Redux Toolkit/Redux.md",
+    "02- MERN/07- ReactJs/React.md",
+    "02- MERN/04- ExpressJs/Express.md",
+    "02- MERN/03- NodeJs/Node.md",
+    "02- MERN/02- TypeScript/TS.md",
+    "02- MERN/01- JavaScript/Js.md",
+    "06- Object Oriented Analysis and Design/OOAD.md",
+    "11- Operating System/OS.md",
+    "03- SOLID Principles/SOLID Principles.md",
+    "02- MERN/16- T3 Stack",
+    "02- MERN/12- PostgreSQL",
+    "02- MERN/11- NextAuth",
+    "02- MERN/15- tRPC",
+    "02- MERN/14- TanStack Query",
+    "02- MERN/13- Tailwind CSS",
+    "02- MERN/08- Redux Toolkit"
+  ]
+}
