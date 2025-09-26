@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c244400c984242fc",
+        "id": "7a0112c81aea1792",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0e74c548375911",
+            "id": "39b4cccaf201d1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Database Management System/01- Overview.md",
+                "file": "02- MERN/18- Projects/04- Video Call App/Concepts Required.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- Overview"
-            }
-          },
-          {
-            "id": "69c9c0f081ee6dad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05- Dev Ops/DevOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DevOps"
-            }
-          },
-          {
-            "id": "93ad8eeb63e16548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub SSH Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub SSH Setup"
+              "title": "Concepts Required"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,15 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93ad8eeb63e16548",
+  "active": "39b4cccaf201d1a8",
   "lastOpenFiles": [
+    "10- Database Management System/01- Overview.md",
+    "02- MERN/18- Projects/04- Video Call App/Concepts Required.md",
+    "02- MERN/18- Projects/04- Video Call App",
+    "02- MERN/18- Projects/03- Chat App",
+    "02- MERN/18- Projects/02- Password Vault",
+    "02- MERN/18- Projects/01- Todo List",
+    "05- Dev Ops/GitHub SSH Setup.md",
+    "02- MERN/18- Projects",
     "05- Dev Ops/DevOps.md",
-    "GitHub SSH Setup.md",
     "Computer Science Update History.md",
     "02- MERN/06- Zod/Zod.md",
     "02- MERN/05- MongoDB/Mongo.md",
     "10- Database Management System/02- Introduction.md",
-    "10- Database Management System/01- Overview.md",
     "10- Database Management System/DBMS.md",
     "02- MERN/17- React Native Expo/React Native Crash Course.md",
     "02- MERN/17- React Native Expo",
@@ -223,14 +201,7 @@
     "02- MERN/07- ReactJs/React.md",
     "02- MERN/04- ExpressJs/Express.md",
     "02- MERN/03- NodeJs/Node.md",
-    "02- MERN/02- TypeScript/TS.md",
-    "02- MERN/01- JavaScript/Js.md",
     "02- MERN/16- T3 Stack",
-    "02- MERN/12- PostgreSQL",
-    "02- MERN/11- NextAuth",
-    "02- MERN/15- tRPC",
-    "02- MERN/14- TanStack Query",
-    "02- MERN/13- Tailwind CSS",
-    "02- MERN/08- Redux Toolkit"
+    "02- MERN/12- PostgreSQL"
   ]
 }
